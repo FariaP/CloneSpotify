@@ -1,6 +1,6 @@
 # Clone do Spotify
 
-Este projeto é uma réplica do Spotify (landing page), focado em criar uma interface similar à plataforma de streaming de música. 
+Este projeto de aprendizado e é uma réplica do Spotify (landing page), focado em criar uma interface similar à plataforma de streaming de música. 
 O projeto foi desenvolvido utilizando **HTML**, **CSS** com ênfase na criação de novas animações de carrossel 
 e um background fixo para um visual mais moderno e dinâmico.
 
